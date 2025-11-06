@@ -13,7 +13,7 @@ Follow these steps to set up queuectl and run it locally:
 
 ``` 
 
-git clone https://github.com/your-username/queuectl.git
+git clone https://github.com/bhuvana-pyatlo-hub/queuectl.git
 
 ```
 ### 2. Change to a correct Directory
